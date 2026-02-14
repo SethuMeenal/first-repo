@@ -1,0 +1,6 @@
+red = (255, 0, 0)
+green = (0, 255, 0)
+blue = (0, 0, 255)
+print(f"Red: {red}")
+print(f"Green: {green}")
+print(f"Blue: {blue}")
